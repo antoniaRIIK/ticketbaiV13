@@ -7,3 +7,8 @@
 	path = antoniaRIIK/ticketbai_v13_server_submodules
 	url = git@github.com:antoniaRIIK/ticketbai_v13_server.git
 	branch = ticketbai_v13
+
+[submodule "antoniaRIIK/ticketbai_v13_server/ticketbai_v13/l10n_es_aeat.zip"]
+	path = antoniaRIIK/ticketbai_v13_server/ticketbai_v13/l10n_es_aeat.zip
+	url = git@github.com:antoniaRIIK/ticketbai_v13_server.git
+	branch = ticketbai_v13
