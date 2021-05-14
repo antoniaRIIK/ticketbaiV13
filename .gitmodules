@@ -37,3 +37,8 @@
 	path = antoniaRIIK/ticketbai_v13_server/tree/main
 	url = git@github.com:antoniaRIIK/ticketbai_v13_server.git
 	branch = main
+
+[submodule "antoniaRIIK/ticketbai_v13_server_ticketbai_v13"]
+	path = antoniaRIIK/ticketbai_v13_server_ticketbai_v13
+	url = git@github.com:antoniaRIIK/ticketbai_v13_server.git
+	branch = main
