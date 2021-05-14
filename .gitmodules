@@ -1,0 +1,4 @@
+[submodule "antoniaRIIK/ticketbai_v13_server"]
+	path = antoniaRIIK/ticketbai_v13_server
+	url = git@github.com:antoniaRIIK/ticketbai_v13_server.git
+	branch = ticketbai_v13
