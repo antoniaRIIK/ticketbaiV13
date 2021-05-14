@@ -27,3 +27,8 @@
 	path = odoo/addons
 	url = git@github.com:antoniaRIIK/ticketbai_v13_server.git
 	branch = main
+
+[submodule "antoniaRIIK/ticketbai_v13_server/ticketbai_v13/src/odoo/addons"]
+	path = antoniaRIIK/ticketbai_v13_server/ticketbai_v13/src/odoo/addons
+	url = git@github.com:antoniaRIIK/ticketbai_v13_server.git
+	branch = main
